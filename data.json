@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "project_name": "Random Quotes",
+        "description": "A page that generate random quotes by clicking a button",
+        "technologies": ["Vanilla Javascript", "HTML", "CSS"],
+        "img_url": {
+            "main": "../images/project1-main.png",
+            "subs": ["../images/project1-1.png", "../images/project1-2.png", "../images/project1-3.png"]
+        },
+        "live_demo": "https://thquynh.github.io/a_random_quote_slide-show-start/",
+        "git_res": "https://github.com/thquynh/a_random_quote_slide-show-start"
+            
+    },
+    {
+        "id": 1,
+        "project_name": "Pagination",
+        "description": "Making pagination for a list of employees",
+        "technologies":  ["Vanilla Javascript", "HTML", "CSS"],
+        "img_url": {
+            "main": "../images/project2-main.png",
+            "subs": ["../images/project2-1.png", "../images/project2-2.png", "../images/project2-3.png"]
+        },
+        "live_demo":  "https://thquynh.github.io/Project-2---Starter/",
+        "git_res": "https://github.com/thquynh/Project-2---Starter"
+    },
+    {
+        "id": 2,
+        "project_name": "Employee Fetch API",
+        "description": "Generate a list of 12 employees and display their information by clicking on their image or name",
+        "technologies": ["Javascrip", "JQuery", "HTML", "CSS"],
+        "img_url": {
+            "main": "../images/project3-main.png",
+            "subs": ["../images/project3-1.png", "../images/project3-2.png", "../images/project3-3.png"]
+        },
+        "live_demo":  "https://thquynh.github.io/Students---API-Project/",
+        "git_res": "https://github.com/thquynh/Students---API-Project"
+    }
+]
